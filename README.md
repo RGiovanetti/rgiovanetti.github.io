@@ -21,6 +21,6 @@ Apasionado del mundo de los datos y las estadísticas tengo un gran interés en 
 - ⚙️ GitHub || Jupyter || Google Colab || Visual Studio Code || PyCharm
 
 ## Contacto 👤
-- 📫 [rgiovanetti@gmail.com](mailto:rgiovanetti@gmail.com)  
+- 📫 [giovanettirenato@gmail.com](mailto:giovanettirenato@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/r-giovanetti/)  
 - 🌐 [GitHub](https://github.com/RGiovanetti)
